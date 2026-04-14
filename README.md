@@ -17,7 +17,7 @@
 - *pls dont sue me 🥺*
 
 > # Links
-1. **[Main](https://nintendoboi22.github.io/)**
+1. **[Main](https://nboi.netlify.app/)**
 2. **[New One](https://nintendoboi222.github.io/)**
   
 > # DMCA
